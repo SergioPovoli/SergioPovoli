@@ -12,7 +12,6 @@ I’m an italian AI Research Scientist at the [Technologies of Vision Lab (TeV)]
 
 📫 Reach me at:  
 💼 [LinkedIn](https://www.linkedin.com/in/sergiopovoli/)  
-🌐 [sergiopovoli.alphaxiv.io](https://sergiopovoli.alphaxiv.io/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=8u6dho8AAAAJ&hl=en&authuser=1)
 
 🔧 Not many public repos here, but I promise: the projects I’m working on are super interesting! 
